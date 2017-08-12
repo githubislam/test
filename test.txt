@@ -1,0 +1,19 @@
+git holo one kind of version controll system
+source code management tool
+git holo commnad line application
+
+git --version
+git init(for git initializing/shuru kora)
+git config --global user.name "bitbucketislam"
+git config --global user.email "dinislam47526@yahoo.com"
+
+git config --global user.name(name show kore dekhabe)
+git config --global user.email(email show kore dekhabe)
+
+touch test.txt    (text.txt file create hobe)
+notepad test.txt   (note pad a open hobe and kichu write koro)
+git status
+git add test.txt
+git status
+git add .  (. root hishebe shob save kore nai)
+git commit -m "write something about your work"
